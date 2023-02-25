@@ -5,7 +5,7 @@
 | ------------------- | ----- |
 | Ángel Tobaruela Baños | Consultor-Tester |
 | Ángel Campos Salido | Coordinador |
-| Manuel Ruiz Campos | Analista |
+| Manuel Ruiz Campos | Analista-Diseñador-Tester |
 | Antonio Jesús Díaz Plaza | Programador |
 | Iván Díaz García | Analista |
 | Adrian Fernandez Vera | Programador |
